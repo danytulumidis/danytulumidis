@@ -44,10 +44,5 @@ In Javascript al...</td><td><a href="https://danytulumidis.hashnode.dev/an-intro
 Let´s talk about Merge Sort. We have many sorting algorithms for sorting our data and for most programming languages we already have built-in functions for sorting. So why we should bother us to learn things like Merge Sort or other sort...</td><td><a href="https://danytulumidis.hashnode.dev/an-introduction-to-linked-lists-data-structure-ckgt7a2fd00aa93s13esm763v" title="An introduction to Linked Lists [Data Structure]"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603877303083/Qa4qHCPq0.jpeg" alt="An introduction to Linked Lists [Data Structure]"   /></a>
 <a href="https://danytulumidis.hashnode.dev/an-introduction-to-linked-lists-data-structure-ckgt7a2fd00aa93s13esm763v" title="An introduction to Linked Lists [Data Structure]"><strong>An introduction to Linked Lists [Data Structure]</strong></a>
 <br/> Introduction
-What is a Linked List? This is the first question we should answer before we move on and see come code. This will be a quick introduction into Linked Lists, for more detailed infos i will link to some great resources at the end of this a...</td></tr><tr><td><a href="https://danytulumidis.hashnode.dev/the-elvis-operator-ckgt6wik9009za0s181mb96rl" title="The "Elvis" Operator"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603876881662/X3rTxKbqe.jpeg" alt="The "Elvis" Operator"   /></a>
-<a href="https://danytulumidis.hashnode.dev/the-elvis-operator-ckgt6wik9009za0s181mb96rl" title="The "Elvis" Operator"><strong>The "Elvis" Operator</strong></a>
-<br/> Introduction
-In many programming languages there is this special operator.
-Its often called "Elvis"-Operator because with a bit of imagination you can see it in the hair of Elvis. Rock´n Roll!
-In other words its just a question mark (?). I encountere...</td></tr></table>
+What is a Linked List? This is the first question we should answer before we move on and see come code. This will be a quick introduction into Linked Lists, for more detailed infos i will link to some great resources at the end of this a...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
