@@ -21,4 +21,11 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Atomic Habits - Review [Productivity]](https://danytulumidis.hashnode.dev/atomic-habits-review-productivity-ckh90t4x60839s9s1gsqmewec)
+- [[Productivity] Pomodoro Technique](https://danytulumidis.hashnode.dev/productivity-pomodoro-technique-ckh251d2001ec9ms12att1tl0)
+- [[Productivity] Pick a Theme!](https://danytulumidis.hashnode.dev/productivity-pick-a-theme-ckh24v7as01cv9ms1g3r4577s)
+- [Javascript Prototype - Whats that?](https://danytulumidis.hashnode.dev/javascript-prototype-whats-that-ckh1q5v9i02ot2ps1ck6e76xc)
+- [An introduction to Merge Sort [Algorithm]](https://danytulumidis.hashnode.dev/an-introduction-to-merge-sort-algorithm-ckguuoyzr0163dus1bnn5903g)
+- [An introduction to Linked Lists [Data Structure]](https://danytulumidis.hashnode.dev/an-introduction-to-linked-lists-data-structure-ckgt7a2fd00aa93s13esm763v)
+- [The "Elvis" Operator](https://danytulumidis.hashnode.dev/the-elvis-operator-ckgt6wik9009za0s181mb96rl)
 <!-- HASHNODE_BLOG:END -->
