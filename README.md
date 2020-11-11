@@ -21,11 +21,33 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-- [Atomic Habits - Review [Productivity]](https://danytulumidis.hashnode.dev/atomic-habits-review-productivity-ckh90t4x60839s9s1gsqmewec)
-- [[Productivity] Pomodoro Technique](https://danytulumidis.hashnode.dev/productivity-pomodoro-technique-ckh251d2001ec9ms12att1tl0)
-- [[Productivity] Pick a Theme!](https://danytulumidis.hashnode.dev/productivity-pick-a-theme-ckh24v7as01cv9ms1g3r4577s)
-- [Javascript Prototype - Whats that?](https://danytulumidis.hashnode.dev/javascript-prototype-whats-that-ckh1q5v9i02ot2ps1ck6e76xc)
-- [An introduction to Merge Sort [Algorithm]](https://danytulumidis.hashnode.dev/an-introduction-to-merge-sort-algorithm-ckguuoyzr0163dus1bnn5903g)
-- [An introduction to Linked Lists [Data Structure]](https://danytulumidis.hashnode.dev/an-introduction-to-linked-lists-data-structure-ckgt7a2fd00aa93s13esm763v)
-- [The "Elvis" Operator](https://danytulumidis.hashnode.dev/the-elvis-operator-ckgt6wik9009za0s181mb96rl)
+<table><tr><td><a href="https://danytulumidis.hashnode.dev/atomic-habits-review-productivity-ckh90t4x60839s9s1gsqmewec" title="Atomic Habits - Review [Productivity]"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604833989694/6WpEsK90K.jpeg" alt="Atomic Habits - Review [Productivity]"   /></a>
+<a href="https://danytulumidis.hashnode.dev/atomic-habits-review-productivity-ckh90t4x60839s9s1gsqmewec" title="Atomic Habits - Review [Productivity]"><strong>Atomic Habits - Review [Productivity]</strong></a>
+<br/> Introduction
+Atomic Habits from James Clear is a fantastic book and i want to tell you why.
+In this review you will get an insight of the book and why it can change your life. Habits are one (if not the most) important thing when it comes to producti...</td><td><a href="https://danytulumidis.hashnode.dev/productivity-pomodoro-technique-ckh251d2001ec9ms12att1tl0" title="[Productivity] Pomodoro Technique"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604417918808/ihC9VrXax.jpeg" alt="[Productivity] Pomodoro Technique"   /></a>
+<a href="https://danytulumidis.hashnode.dev/productivity-pomodoro-technique-ckh251d2001ec9ms12att1tl0" title="[Productivity] Pomodoro Technique"><strong>[Productivity] Pomodoro Technique</strong></a>
+<br/> Introduction
+How often do you want to start a task or learn something and get stuck on youtube or any social media? I would say pretty often. It happens to all of us and to me too.
+This is called procrastination. Its just to easy for us to be distrac...</td><td><a href="https://danytulumidis.hashnode.dev/productivity-pick-a-theme-ckh24v7as01cv9ms1g3r4577s" title="[Productivity] Pick a Theme!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604417623612/sraS7dzKL.jpeg" alt="[Productivity] Pick a Theme!"   /></a>
+<a href="https://danytulumidis.hashnode.dev/productivity-pick-a-theme-ckh24v7as01cv9ms1g3r4577s" title="[Productivity] Pick a Theme!"><strong>[Productivity] Pick a Theme!</strong></a>
+<br/> Introduction
+At the beginning of each year we decide to commit to something to improve ourselves. Maybe to go to the gym or read one book per month. Most of the time we dont stick with it and get lost in the first half of the year.
+Every january i se...</td></tr><tr><td><a href="https://danytulumidis.hashnode.dev/javascript-prototype-whats-that-ckh1q5v9i02ot2ps1ck6e76xc" title="Javascript Prototype - Whats that?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604392786074/PRiXxSbkV.jpeg" alt="Javascript Prototype - Whats that?"   /></a>
+<a href="https://danytulumidis.hashnode.dev/javascript-prototype-whats-that-ckh1q5v9i02ot2ps1ck6e76xc" title="Javascript Prototype - Whats that?"><strong>Javascript Prototype - Whats that?</strong></a>
+<br/> Introduction
+You may know Javascript. You may know what a Prototype is. But you ask yourself: What are prototype in a javascript context?
+Let me explain it to you in a few words and then show you some code for a better understanding.
+In Javascript al...</td><td><a href="https://danytulumidis.hashnode.dev/an-introduction-to-merge-sort-algorithm-ckguuoyzr0163dus1bnn5903g" title="An introduction to Merge Sort [Algorithm]"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603977301425/W_kO0s8XI.png" alt="An introduction to Merge Sort [Algorithm]"   /></a>
+<a href="https://danytulumidis.hashnode.dev/an-introduction-to-merge-sort-algorithm-ckguuoyzr0163dus1bnn5903g" title="An introduction to Merge Sort [Algorithm]"><strong>An introduction to Merge Sort [Algorithm]</strong></a>
+<br/> Introduction
+Let´s talk about Merge Sort. We have many sorting algorithms for sorting our data and for most programming languages we already have built-in functions for sorting. So why we should bother us to learn things like Merge Sort or other sort...</td><td><a href="https://danytulumidis.hashnode.dev/an-introduction-to-linked-lists-data-structure-ckgt7a2fd00aa93s13esm763v" title="An introduction to Linked Lists [Data Structure]"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603877303083/Qa4qHCPq0.jpeg" alt="An introduction to Linked Lists [Data Structure]"   /></a>
+<a href="https://danytulumidis.hashnode.dev/an-introduction-to-linked-lists-data-structure-ckgt7a2fd00aa93s13esm763v" title="An introduction to Linked Lists [Data Structure]"><strong>An introduction to Linked Lists [Data Structure]</strong></a>
+<br/> Introduction
+What is a Linked List? This is the first question we should answer before we move on and see come code. This will be a quick introduction into Linked Lists, for more detailed infos i will link to some great resources at the end of this a...</td></tr><tr><td><a href="https://danytulumidis.hashnode.dev/the-elvis-operator-ckgt6wik9009za0s181mb96rl" title="The "Elvis" Operator"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603876881662/X3rTxKbqe.jpeg" alt="The "Elvis" Operator"   /></a>
+<a href="https://danytulumidis.hashnode.dev/the-elvis-operator-ckgt6wik9009za0s181mb96rl" title="The "Elvis" Operator"><strong>The "Elvis" Operator</strong></a>
+<br/> Introduction
+In many programming languages there is this special operator.
+Its often called "Elvis"-Operator because with a bit of imagination you can see it in the hair of Elvis. Rock´n Roll!
+In other words its just a question mark (?). I encountere...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
