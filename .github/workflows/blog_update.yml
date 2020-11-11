@@ -16,8 +16,8 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'Danys Developer Corner'
-          COUNT: 9
+          USERNAME: 'DanyTulumidis'
+          COUNT: 6
           STYLE: "blog-grid-3"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
