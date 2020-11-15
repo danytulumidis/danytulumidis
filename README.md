@@ -21,7 +21,12 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/atomic-habits-review-productivity" title="Atomic Habits - Review [Productivity]"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604833989694/6WpEsK90K.jpeg" alt="Atomic Habits - Review [Productivity]"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/the-craftsman-mindset-productivity" title="The Craftsman Mindset [Productivity]"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605358830228/BGVVuhXkk.jpeg" alt="The Craftsman Mindset [Productivity]"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/the-craftsman-mindset-productivity" title="The Craftsman Mindset [Productivity]"><strong>The Craftsman Mindset [Productivity]</strong></a>
+<br/> Introduction
+Hello there!
+In this blog post i want to introduce you to the craftsman mindset and why this approach is a good way to find your dream job and live a happy life.
+Whats the craftsman mindset you might ask. Very good question so lets dive ...</td><td><a href="https://danysdevcorner.hashnode.dev/atomic-habits-review-productivity" title="Atomic Habits - Review [Productivity]"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604833989694/6WpEsK90K.jpeg" alt="Atomic Habits - Review [Productivity]"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/atomic-habits-review-productivity" title="Atomic Habits - Review [Productivity]"><strong>Atomic Habits - Review [Productivity]</strong></a>
 <br/> Introduction
 Atomic Habits from James Clear is a fantastic book and i want to tell you why.
@@ -29,11 +34,11 @@ In this review you will get an insight of the book and why it can change your li
 <a href="https://danysdevcorner.hashnode.dev/productivity-pomodoro-technique" title="[Productivity] Pomodoro Technique"><strong>[Productivity] Pomodoro Technique</strong></a>
 <br/> Introduction
 How often do you want to start a task or learn something and get stuck on youtube or any social media? I would say pretty often. It happens to all of us and to me too.
-This is called procrastination. Its just to easy for us to be distrac...</td><td><a href="https://danysdevcorner.hashnode.dev/productivity-pick-a-theme" title="[Productivity] Pick a Theme!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604417623612/sraS7dzKL.jpeg" alt="[Productivity] Pick a Theme!"   /></a>
+This is called procrastination. Its just to easy for us to be distrac...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/productivity-pick-a-theme" title="[Productivity] Pick a Theme!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604417623612/sraS7dzKL.jpeg" alt="[Productivity] Pick a Theme!"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/productivity-pick-a-theme" title="[Productivity] Pick a Theme!"><strong>[Productivity] Pick a Theme!</strong></a>
 <br/> Introduction
 At the beginning of each year we decide to commit to something to improve ourselves. Maybe to go to the gym or read one book per month. Most of the time we dont stick with it and get lost in the first half of the year.
-Every january i se...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/javascript-prototype-whats-that" title="Javascript Prototype - Whats that?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604392786074/PRiXxSbkV.jpeg" alt="Javascript Prototype - Whats that?"   /></a>
+Every january i se...</td><td><a href="https://danysdevcorner.hashnode.dev/javascript-prototype-whats-that" title="Javascript Prototype - Whats that?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604392786074/PRiXxSbkV.jpeg" alt="Javascript Prototype - Whats that?"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/javascript-prototype-whats-that" title="Javascript Prototype - Whats that?"><strong>Javascript Prototype - Whats that?</strong></a>
 <br/> Introduction
 You may know Javascript. You may know what a Prototype is. But you ask yourself: What are prototype in a javascript context?
@@ -41,8 +46,5 @@ Let me explain it to you in a few words and then show you some code for a better
 In Javascript al...</td><td><a href="https://danysdevcorner.hashnode.dev/an-introduction-to-merge-sort-algorithm" title="An introduction to Merge Sort [Algorithm]"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603977301425/W_kO0s8XI.png" alt="An introduction to Merge Sort [Algorithm]"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/an-introduction-to-merge-sort-algorithm" title="An introduction to Merge Sort [Algorithm]"><strong>An introduction to Merge Sort [Algorithm]</strong></a>
 <br/> Introduction
-Let´s talk about Merge Sort. We have many sorting algorithms for sorting our data and for most programming languages we already have built-in functions for sorting. So why we should bother us to learn things like Merge Sort or other sort...</td><td><a href="https://danysdevcorner.hashnode.dev/an-introduction-to-linked-lists-data-structure" title="An introduction to Linked Lists [Data Structure]"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603877303083/Qa4qHCPq0.jpeg" alt="An introduction to Linked Lists [Data Structure]"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/an-introduction-to-linked-lists-data-structure" title="An introduction to Linked Lists [Data Structure]"><strong>An introduction to Linked Lists [Data Structure]</strong></a>
-<br/> Introduction
-What is a Linked List? This is the first question we should answer before we move on and see come code. This will be a quick introduction into Linked Lists, for more detailed infos i will link to some great resources at the end of this a...</td></tr></table>
+Let´s talk about Merge Sort. We have many sorting algorithms for sorting our data and for most programming languages we already have built-in functions for sorting. So why we should bother us to learn things like Merge Sort or other sort...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
