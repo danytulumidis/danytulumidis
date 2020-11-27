@@ -13,7 +13,7 @@ When i need a break from coding i love to read blog posts in the tech field to s
 - [Twitter](https://twitter.com/danytulumidis) 🐤
 - [LinkedIn](https://linkedin.com/in/danytulumidis) 👨💼
 - [Website](https://dextavision.github.io/danytulumidis/) 😏🔗
-- [Blog](https://dev.to/danytulumidis) 🤓💻
+- [Blog](https://danysdevcorner.hashnode.dev/) 🤓💻
 
 
 ## &#x1f4c8; GitHub Stats
