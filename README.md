@@ -21,7 +21,11 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/3-useful-web-developer-toolssites" title="3  useful Web Developer Tools/Sites"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610887979416/p-sG9AXnr.jpeg" alt="3  useful Web Developer Tools/Sites"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/so-good-they-cant-ignore-you-review" title="So Good They Cant Ignore You - Review"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611421747442/UFKb1P_YD.jpeg" alt="So Good They Cant Ignore You - Review"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/so-good-they-cant-ignore-you-review" title="So Good They Cant Ignore You - Review"><strong>So Good They Cant Ignore You - Review</strong></a>
+<br/> Introduction
+So Good They Cant Ignore You written by Cal Newport is a fantastic book and i want to tell you why.
+In this book Cal Newport is on a journey to learn and understand how we can build successful careers and do stuff that we love. Our Dream...</td><td><a href="https://danysdevcorner.hashnode.dev/3-useful-web-developer-toolssites" title="3  useful Web Developer Tools/Sites"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610887979416/p-sG9AXnr.jpeg" alt="3  useful Web Developer Tools/Sites"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/3-useful-web-developer-toolssites" title="3  useful Web Developer Tools/Sites"><strong>3  useful Web Developer Tools/Sites</strong></a>
 <br/> Introduction
 Hellooooo there!
@@ -31,14 +35,14 @@ Feel free to add some of your favorites sites and tools in the comment section
 ZTM is an Educational site w...</td><td><a href="https://danysdevcorner.hashnode.dev/stay-fit-and-healthy-as-a-developer" title="Stay fit and healthy as a developer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610199324246/emhQ7MFph.jpeg" alt="Stay fit and healthy as a developer"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/stay-fit-and-healthy-as-a-developer" title="Stay fit and healthy as a developer"><strong>Stay fit and healthy as a developer</strong></a>
 <br/> Introduction
-We all know the typical programmer. Big belly, glasses, acne and cant run 5 meters without gasping for air. At least this is how programmers are in books and movies but it does not have to be like this. We have to take care of ourselves ...</td><td><a href="https://danysdevcorner.hashnode.dev/tool-of-the-week-advent-of-code" title="Tool of the Week: Advent of Code"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607864994053/k53C3nEj_.jpeg" alt="Tool of the Week: Advent of Code"   /></a>
+We all know the typical programmer. Big belly, glasses, acne and cant run 5 meters without gasping for air. At least this is how programmers are in books and movies but it does not have to be like this. We have to take care of ourselves ...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/tool-of-the-week-advent-of-code" title="Tool of the Week: Advent of Code"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607864994053/k53C3nEj_.jpeg" alt="Tool of the Week: Advent of Code"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/tool-of-the-week-advent-of-code" title="Tool of the Week: Advent of Code"><strong>Tool of the Week: Advent of Code</strong></a>
 <br/> Introduction
 Once a week i want to show you my personal Tool of the Week.
 This week its not a real tool but its quite cool (Rhyme of the year!).
 Its  Advent of Code.
 Advent of Code
-Its quite a cool project (Advent Calendar) where you can solve a codi...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/how-to-learn-efficiently-as-a-developer" title="How to learn efficiently as a developer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607864006899/gw-GpHOuy.jpeg" alt="How to learn efficiently as a developer"   /></a>
+Its quite a cool project (Advent Calendar) where you can solve a codi...</td><td><a href="https://danysdevcorner.hashnode.dev/how-to-learn-efficiently-as-a-developer" title="How to learn efficiently as a developer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607864006899/gw-GpHOuy.jpeg" alt="How to learn efficiently as a developer"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/how-to-learn-efficiently-as-a-developer" title="How to learn efficiently as a developer"><strong>How to learn efficiently as a developer</strong></a>
 <br/> Introduction
 Hey there! I hope youre all healthy!
@@ -50,8 +54,5 @@ As a developer there tons (rea...</td><td><a href="https://danysdevcorner.hashno
 <br/> Introduction
 Once a week i want to show you my personal Tool of the Week.
 I start this series with Typingclub.
-As a programmer typing on our keyboards is our daily bread and if we can improve our typing speed and accuracy we improve our productivity....</td><td><a href="https://danysdevcorner.hashnode.dev/do-you-need-data-structures" title="Do you need Data Structures?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606648404626/DhZC4gAyg.jpeg" alt="Do you need Data Structures?"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/do-you-need-data-structures" title="Do you need Data Structures?"><strong>Do you need Data Structures?</strong></a>
-<br/> Introduction
-Lets talk about data structures. Do we really need it as developers or can we do fine without them? Lets be real its not easy to learn them all and in Programmer Land we have to learn so much. So the question is do we need to learn them?...</td></tr></table>
+As a programmer typing on our keyboards is our daily bread and if we can improve our typing speed and accuracy we improve our productivity....</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
