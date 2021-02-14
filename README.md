@@ -21,7 +21,12 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/week-1-of-30-days-of-flutter-summary" title="Week 1 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612710003875/IKHSxHjMp.jpeg" alt="Week 1 of 30 Days of Flutter - Summary"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/week-2-of-30-days-of-flutter-summary" title="Week 2 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613223763529/hEl3IiKPY.jpeg" alt="Week 2 of 30 Days of Flutter - Summary"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/week-2-of-30-days-of-flutter-summary" title="Week 2 of 30 Days of Flutter - Summary"><strong>Week 2 of 30 Days of Flutter - Summary</strong></a>
+<br/> Introduction
+Hello there!
+Last week i introduced you to Flutter and the 30 Days of Flutter Event. And even if i learned a lot of cool new stuff the post was more of an introduction to Flutter and Dart.
+In this post i will dive more into the technical...</td><td><a href="https://danysdevcorner.hashnode.dev/week-1-of-30-days-of-flutter-summary" title="Week 1 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612710003875/IKHSxHjMp.jpeg" alt="Week 1 of 30 Days of Flutter - Summary"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/week-1-of-30-days-of-flutter-summary" title="Week 1 of 30 Days of Flutter - Summary"><strong>Week 1 of 30 Days of Flutter - Summary</strong></a>
 <br/> Introduction
 Hello there! In this post i want to share my experience with my first week of learning Flutter.
@@ -32,11 +37,11 @@ New year, time to learn a new skill and mobile development i...</td><td><a href=
 <br/> Introduction
 As a developer its important to always keep learning. Learn about the stuff you know and learn new stuff!
 I really like how Flutter works and the beautiful Apps you can build with it - Cross Platform!
-So i decided to myself to dive in in...</td><td><a href="https://danysdevcorner.hashnode.dev/so-good-they-cant-ignore-you-review" title="So Good They Cant Ignore You - Review"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611421747442/UFKb1P_YD.jpeg" alt="So Good They Cant Ignore You - Review"   /></a>
+So i decided to myself to dive in in...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/so-good-they-cant-ignore-you-review" title="So Good They Cant Ignore You - Review"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611421747442/UFKb1P_YD.jpeg" alt="So Good They Cant Ignore You - Review"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/so-good-they-cant-ignore-you-review" title="So Good They Cant Ignore You - Review"><strong>So Good They Cant Ignore You - Review</strong></a>
 <br/> Introduction
 So Good They Cant Ignore You written by Cal Newport is a fantastic book and i want to tell you why.
-In this book Cal Newport is on a journey to learn and understand how we can build successful careers and do stuff that we love. Our Dream...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/3-useful-web-developer-toolssites" title="3  useful Web Developer Tools/Sites"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610887979416/p-sG9AXnr.jpeg" alt="3  useful Web Developer Tools/Sites"   /></a>
+In this book Cal Newport is on a journey to learn and understand how we can build successful careers and do stuff that we love. Our Dream...</td><td><a href="https://danysdevcorner.hashnode.dev/3-useful-web-developer-toolssites" title="3  useful Web Developer Tools/Sites"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610887979416/p-sG9AXnr.jpeg" alt="3  useful Web Developer Tools/Sites"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/3-useful-web-developer-toolssites" title="3  useful Web Developer Tools/Sites"><strong>3  useful Web Developer Tools/Sites</strong></a>
 <br/> Introduction
 Hellooooo there!
@@ -46,12 +51,5 @@ Feel free to add some of your favorites sites and tools in the comment section
 ZTM is an Educational site w...</td><td><a href="https://danysdevcorner.hashnode.dev/stay-fit-and-healthy-as-a-developer" title="Stay fit and healthy as a developer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610199324246/emhQ7MFph.jpeg" alt="Stay fit and healthy as a developer"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/stay-fit-and-healthy-as-a-developer" title="Stay fit and healthy as a developer"><strong>Stay fit and healthy as a developer</strong></a>
 <br/> Introduction
-We all know the typical programmer. Big belly, glasses, acne and cant run 5 meters without gasping for air. At least this is how programmers are in books and movies but it does not have to be like this. We have to take care of ourselves ...</td><td><a href="https://danysdevcorner.hashnode.dev/tool-of-the-week-advent-of-code" title="Tool of the Week: Advent of Code"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607864994053/k53C3nEj_.jpeg" alt="Tool of the Week: Advent of Code"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/tool-of-the-week-advent-of-code" title="Tool of the Week: Advent of Code"><strong>Tool of the Week: Advent of Code</strong></a>
-<br/> Introduction
-Once a week i want to show you my personal Tool of the Week.
-This week its not a real tool but its quite cool (Rhyme of the year!).
-Its  Advent of Code.
-Advent of Code
-Its quite a cool project (Advent Calendar) where you can solve a codi...</td></tr></table>
+We all know the typical programmer. Big belly, glasses, acne and cant run 5 meters without gasping for air. At least this is how programmers are in books and movies but it does not have to be like this. We have to take care of ourselves ...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
