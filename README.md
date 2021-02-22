@@ -21,7 +21,11 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/week-2-of-30-days-of-flutter-summary" title="Week 2 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613223763529/hEl3IiKPY.jpeg" alt="Week 2 of 30 Days of Flutter - Summary"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/week-3-of-30-days-of-flutter-summary" title="Week 3 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613841224336/_QosalxbT.jpeg" alt="Week 3 of 30 Days of Flutter - Summary"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/week-3-of-30-days-of-flutter-summary" title="Week 3 of 30 Days of Flutter - Summary"><strong>Week 3 of 30 Days of Flutter - Summary</strong></a>
+<br/> Introduction
+Hello there!
+Another week, another awesome new experience i made with Flutter. I really really enjoy this journey and i want learn more about Flutter. Its really important to me to share my experience learning it and spread the word beca...</td><td><a href="https://danysdevcorner.hashnode.dev/week-2-of-30-days-of-flutter-summary" title="Week 2 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613223763529/hEl3IiKPY.jpeg" alt="Week 2 of 30 Days of Flutter - Summary"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/week-2-of-30-days-of-flutter-summary" title="Week 2 of 30 Days of Flutter - Summary"><strong>Week 2 of 30 Days of Flutter - Summary</strong></a>
 <br/> Introduction
 Hello there!
@@ -32,12 +36,12 @@ In this post i will dive more into the technical...</td><td><a href="https://dan
 Hello there! In this post i want to share my experience with my first week of learning Flutter.
 This month Google announced the 30 days of flutter event and i said to myself: 
 
-New year, time to learn a new skill and mobile development i...</td><td><a href="https://danysdevcorner.hashnode.dev/30-days-of-flutter" title="30 Days of Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612098228445/wMt1wHXEz.jpeg" alt="30 Days of Flutter"   /></a>
+New year, time to learn a new skill and mobile development i...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/30-days-of-flutter" title="30 Days of Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612098228445/wMt1wHXEz.jpeg" alt="30 Days of Flutter"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/30-days-of-flutter" title="30 Days of Flutter"><strong>30 Days of Flutter</strong></a>
 <br/> Introduction
 As a developer its important to always keep learning. Learn about the stuff you know and learn new stuff!
 I really like how Flutter works and the beautiful Apps you can build with it - Cross Platform!
-So i decided to myself to dive in in...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/so-good-they-cant-ignore-you-review" title="So Good They Cant Ignore You - Review"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611421747442/UFKb1P_YD.jpeg" alt="So Good They Cant Ignore You - Review"   /></a>
+So i decided to myself to dive in in...</td><td><a href="https://danysdevcorner.hashnode.dev/so-good-they-cant-ignore-you-review" title="So Good They Cant Ignore You - Review"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611421747442/UFKb1P_YD.jpeg" alt="So Good They Cant Ignore You - Review"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/so-good-they-cant-ignore-you-review" title="So Good They Cant Ignore You - Review"><strong>So Good They Cant Ignore You - Review</strong></a>
 <br/> Introduction
 So Good They Cant Ignore You written by Cal Newport is a fantastic book and i want to tell you why.
@@ -48,8 +52,5 @@ Hellooooo there!
 Today i want to share some useful tools and sites that might be helpful for some of you.
 Feel free to add some of your favorites sites and tools in the comment section
 1: Zero to Mastery Blog
-ZTM is an Educational site w...</td><td><a href="https://danysdevcorner.hashnode.dev/stay-fit-and-healthy-as-a-developer" title="Stay fit and healthy as a developer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610199324246/emhQ7MFph.jpeg" alt="Stay fit and healthy as a developer"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/stay-fit-and-healthy-as-a-developer" title="Stay fit and healthy as a developer"><strong>Stay fit and healthy as a developer</strong></a>
-<br/> Introduction
-We all know the typical programmer. Big belly, glasses, acne and cant run 5 meters without gasping for air. At least this is how programmers are in books and movies but it does not have to be like this. We have to take care of ourselves ...</td></tr></table>
+ZTM is an Educational site w...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
