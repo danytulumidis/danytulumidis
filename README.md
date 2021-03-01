@@ -21,7 +21,12 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/week-3-of-30-days-of-flutter-summary" title="Week 3 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613841224336/_QosalxbT.jpeg" alt="Week 3 of 30 Days of Flutter - Summary"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/week-4-of-30-days-of-flutter-summary" title="Week 4 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614528228845/fE9WHlT50.jpeg" alt="Week 4 of 30 Days of Flutter - Summary"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/week-4-of-30-days-of-flutter-summary" title="Week 4 of 30 Days of Flutter - Summary"><strong>Week 4 of 30 Days of Flutter - Summary</strong></a>
+<br/> Introduction
+Hello there!
+Welcome to my final blog about my 30 days of Flutter journey. It was really fun and i can promise you that my path into the Flutter and App development world will NOT end here.
+Flutter is awesome and its a pleasure as a dev ...</td><td><a href="https://danysdevcorner.hashnode.dev/week-3-of-30-days-of-flutter-summary" title="Week 3 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613841224336/_QosalxbT.jpeg" alt="Week 3 of 30 Days of Flutter - Summary"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/week-3-of-30-days-of-flutter-summary" title="Week 3 of 30 Days of Flutter - Summary"><strong>Week 3 of 30 Days of Flutter - Summary</strong></a>
 <br/> Introduction
 Hello there!
@@ -30,13 +35,13 @@ Another week, another awesome new experience i made with Flutter. I really reall
 <br/> Introduction
 Hello there!
 Last week i introduced you to Flutter and the 30 Days of Flutter Event. And even if i learned a lot of cool new stuff the post was more of an introduction to Flutter and Dart.
-In this post i will dive more into the technical...</td><td><a href="https://danysdevcorner.hashnode.dev/week-1-of-30-days-of-flutter-summary" title="Week 1 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612710003875/IKHSxHjMp.jpeg" alt="Week 1 of 30 Days of Flutter - Summary"   /></a>
+In this post i will dive more into the technical...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/week-1-of-30-days-of-flutter-summary" title="Week 1 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612710003875/IKHSxHjMp.jpeg" alt="Week 1 of 30 Days of Flutter - Summary"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/week-1-of-30-days-of-flutter-summary" title="Week 1 of 30 Days of Flutter - Summary"><strong>Week 1 of 30 Days of Flutter - Summary</strong></a>
 <br/> Introduction
 Hello there! In this post i want to share my experience with my first week of learning Flutter.
 This month Google announced the 30 days of flutter event and i said to myself: 
 
-New year, time to learn a new skill and mobile development i...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/30-days-of-flutter" title="30 Days of Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612098228445/wMt1wHXEz.jpeg" alt="30 Days of Flutter"   /></a>
+New year, time to learn a new skill and mobile development i...</td><td><a href="https://danysdevcorner.hashnode.dev/30-days-of-flutter" title="30 Days of Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612098228445/wMt1wHXEz.jpeg" alt="30 Days of Flutter"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/30-days-of-flutter" title="30 Days of Flutter"><strong>30 Days of Flutter</strong></a>
 <br/> Introduction
 As a developer its important to always keep learning. Learn about the stuff you know and learn new stuff!
@@ -45,12 +50,5 @@ So i decided to myself to dive in in...</td><td><a href="https://danysdevcorner.
 <a href="https://danysdevcorner.hashnode.dev/so-good-they-cant-ignore-you-review" title="So Good They Cant Ignore You - Review"><strong>So Good They Cant Ignore You - Review</strong></a>
 <br/> Introduction
 So Good They Cant Ignore You written by Cal Newport is a fantastic book and i want to tell you why.
-In this book Cal Newport is on a journey to learn and understand how we can build successful careers and do stuff that we love. Our Dream...</td><td><a href="https://danysdevcorner.hashnode.dev/3-useful-web-developer-toolssites" title="3  useful Web Developer Tools/Sites"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1610887979416/p-sG9AXnr.jpeg" alt="3  useful Web Developer Tools/Sites"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/3-useful-web-developer-toolssites" title="3  useful Web Developer Tools/Sites"><strong>3  useful Web Developer Tools/Sites</strong></a>
-<br/> Introduction
-Hellooooo there!
-Today i want to share some useful tools and sites that might be helpful for some of you.
-Feel free to add some of your favorites sites and tools in the comment section
-1: Zero to Mastery Blog
-ZTM is an Educational site w...</td></tr></table>
+In this book Cal Newport is on a journey to learn and understand how we can build successful careers and do stuff that we love. Our Dream...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
