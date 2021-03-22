@@ -21,7 +21,11 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/5-daily-resources-for-web-developers" title="5 daily resources for Web Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615716213255/8s3N6kMDz.jpeg" alt="5 daily resources for Web Developers"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/how-to-get-into-development" title="How to get into Development"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616336459438/MEnKzJ6q5.jpeg" alt="How to get into Development"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/how-to-get-into-development" title="How to get into Development"><strong>How to get into Development</strong></a>
+<br/> Introduction
+Hello there!
+Development is such a beautiful world and with COVID stucked at home and got into this world on their own. There are many ways how to get into development and multiple directions in which you can go. For example web developm...</td><td><a href="https://danysdevcorner.hashnode.dev/5-daily-resources-for-web-developers" title="5 daily resources for Web Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615716213255/8s3N6kMDz.jpeg" alt="5 daily resources for Web Developers"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/5-daily-resources-for-web-developers" title="5 daily resources for Web Developers"><strong>5 daily resources for Web Developers</strong></a>
 <br/> Introduction
 Hello there!
@@ -30,12 +34,12 @@ My last post about useful javascript resources showed me that you kind of like t
 <br/> Introduction
 Hello there!
 In the last weeks i wrote my posts around Flutter and mobile development. So i think this week its time again for good old Javascript!
-Over time my bookmarks went over 9000 really quick when it comes to Javascript resources ...</td><td><a href="https://danysdevcorner.hashnode.dev/week-4-of-30-days-of-flutter-summary" title="Week 4 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614528228845/fE9WHlT50.jpeg" alt="Week 4 of 30 Days of Flutter - Summary"   /></a>
+Over time my bookmarks went over 9000 really quick when it comes to Javascript resources ...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/week-4-of-30-days-of-flutter-summary" title="Week 4 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614528228845/fE9WHlT50.jpeg" alt="Week 4 of 30 Days of Flutter - Summary"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/week-4-of-30-days-of-flutter-summary" title="Week 4 of 30 Days of Flutter - Summary"><strong>Week 4 of 30 Days of Flutter - Summary</strong></a>
 <br/> Introduction
 Hello there!
 Welcome to my final blog about my 30 days of Flutter journey. It was really fun and i can promise you that my path into the Flutter and App development world will NOT end here.
-Flutter is awesome and its a pleasure as a dev ...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/week-3-of-30-days-of-flutter-summary" title="Week 3 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613841224336/_QosalxbT.jpeg" alt="Week 3 of 30 Days of Flutter - Summary"   /></a>
+Flutter is awesome and its a pleasure as a dev ...</td><td><a href="https://danysdevcorner.hashnode.dev/week-3-of-30-days-of-flutter-summary" title="Week 3 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613841224336/_QosalxbT.jpeg" alt="Week 3 of 30 Days of Flutter - Summary"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/week-3-of-30-days-of-flutter-summary" title="Week 3 of 30 Days of Flutter - Summary"><strong>Week 3 of 30 Days of Flutter - Summary</strong></a>
 <br/> Introduction
 Hello there!
@@ -44,11 +48,5 @@ Another week, another awesome new experience i made with Flutter. I really reall
 <br/> Introduction
 Hello there!
 Last week i introduced you to Flutter and the 30 Days of Flutter Event. And even if i learned a lot of cool new stuff the post was more of an introduction to Flutter and Dart.
-In this post i will dive more into the technical...</td><td><a href="https://danysdevcorner.hashnode.dev/week-1-of-30-days-of-flutter-summary" title="Week 1 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612710003875/IKHSxHjMp.jpeg" alt="Week 1 of 30 Days of Flutter - Summary"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/week-1-of-30-days-of-flutter-summary" title="Week 1 of 30 Days of Flutter - Summary"><strong>Week 1 of 30 Days of Flutter - Summary</strong></a>
-<br/> Introduction
-Hello there! In this post i want to share my experience with my first week of learning Flutter.
-This month Google announced the 30 days of flutter event and i said to myself: 
-
-New year, time to learn a new skill and mobile development i...</td></tr></table>
+In this post i will dive more into the technical...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
