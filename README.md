@@ -21,7 +21,12 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/5-youtube-channels-for-developers" title="5 Youtube Channels for Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617525475691/tr8nE0I5H.jpeg" alt="5 Youtube Channels for Developers"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/3-technologies-every-programmer-should-know" title="3 Technologies every Programmer should know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618058271644/IKgEWbKbw.jpeg" alt="3 Technologies every Programmer should know"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/3-technologies-every-programmer-should-know" title="3 Technologies every Programmer should know"><strong>3 Technologies every Programmer should know</strong></a>
+<br/> Introduction
+Hello there!
+In the world of a programmer there are many technologies we need to stay up to date and learning day for day. A web developer need to practice and learn javascript for a life-time, needs to know HTML and CSS inside out.
+A ba...</td><td><a href="https://danysdevcorner.hashnode.dev/5-youtube-channels-for-developers" title="5 Youtube Channels for Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617525475691/tr8nE0I5H.jpeg" alt="5 Youtube Channels for Developers"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/5-youtube-channels-for-developers" title="5 Youtube Channels for Developers"><strong>5 Youtube Channels for Developers</strong></a>
 <br/> Introduction
 Hello there and happy eastern to you and your loved ones!
@@ -30,11 +35,11 @@ Hopefully yo...</td><td><a href="https://danysdevcorner.hashnode.dev/3-tips-when
 <a href="https://danysdevcorner.hashnode.dev/3-tips-when-working-remotely" title="3 Tips when Working Remotely"><strong>3 Tips when Working Remotely</strong></a>
 <br/> Introduction
 Hello there!
-Since one year we are working from home. At least the most of us. For some its a huge chance of how they work and maybe some of you struggling with it. You have to deal with new kinds of distraction. This could be the childr...</td><td><a href="https://danysdevcorner.hashnode.dev/how-to-get-into-development" title="How to get into Development"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616336459438/MEnKzJ6q5.jpeg" alt="How to get into Development"   /></a>
+Since one year we are working from home. At least the most of us. For some its a huge chance of how they work and maybe some of you struggling with it. You have to deal with new kinds of distraction. This could be the childr...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/how-to-get-into-development" title="How to get into Development"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616336459438/MEnKzJ6q5.jpeg" alt="How to get into Development"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/how-to-get-into-development" title="How to get into Development"><strong>How to get into Development</strong></a>
 <br/> Introduction
 Hello there!
-Development is such a beautiful world and with COVID stucked at home and got into this world on their own. There are many ways how to get into development and multiple directions in which you can go. For example web developm...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/5-daily-resources-for-web-developers" title="5 daily resources for Web Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615716213255/8s3N6kMDz.jpeg" alt="5 daily resources for Web Developers"   /></a>
+Development is such a beautiful world and with COVID stucked at home and got into this world on their own. There are many ways how to get into development and multiple directions in which you can go. For example web developm...</td><td><a href="https://danysdevcorner.hashnode.dev/5-daily-resources-for-web-developers" title="5 daily resources for Web Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615716213255/8s3N6kMDz.jpeg" alt="5 daily resources for Web Developers"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/5-daily-resources-for-web-developers" title="5 daily resources for Web Developers"><strong>5 daily resources for Web Developers</strong></a>
 <br/> Introduction
 Hello there!
@@ -43,10 +48,5 @@ My last post about useful javascript resources showed me that you kind of like t
 <br/> Introduction
 Hello there!
 In the last weeks i wrote my posts around Flutter and mobile development. So i think this week its time again for good old Javascript!
-Over time my bookmarks went over 9000 really quick when it comes to Javascript resources ...</td><td><a href="https://danysdevcorner.hashnode.dev/week-4-of-30-days-of-flutter-summary" title="Week 4 of 30 Days of Flutter - Summary"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614528228845/fE9WHlT50.jpeg" alt="Week 4 of 30 Days of Flutter - Summary"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/week-4-of-30-days-of-flutter-summary" title="Week 4 of 30 Days of Flutter - Summary"><strong>Week 4 of 30 Days of Flutter - Summary</strong></a>
-<br/> Introduction
-Hello there!
-Welcome to my final blog about my 30 days of Flutter journey. It was really fun and i can promise you that my path into the Flutter and App development world will NOT end here.
-Flutter is awesome and its a pleasure as a dev ...</td></tr></table>
+Over time my bookmarks went over 9000 really quick when it comes to Javascript resources ...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
