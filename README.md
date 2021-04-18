@@ -21,7 +21,12 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/3-technologies-every-programmer-should-know" title="3 Technologies every Programmer should know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618058271644/IKgEWbKbw.jpeg" alt="3 Technologies every Programmer should know"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/typescript-is-the-better-javascript" title="Typescript is the better Javascript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618652384308/2-gaRPoll.jpeg" alt="Typescript is the better Javascript"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/typescript-is-the-better-javascript" title="Typescript is the better Javascript"><strong>Typescript is the better Javascript</strong></a>
+<br/> Introduction
+Hello there!
+Javascript is THE language of the web and one or maybe the most used language in the world of programming. You can do everything with it, from building a simple portfolio website till build a complete SaaS product.
+When i st...</td><td><a href="https://danysdevcorner.hashnode.dev/3-technologies-every-programmer-should-know" title="3 Technologies every Programmer should know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618058271644/IKgEWbKbw.jpeg" alt="3 Technologies every Programmer should know"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/3-technologies-every-programmer-should-know" title="3 Technologies every Programmer should know"><strong>3 Technologies every Programmer should know</strong></a>
 <br/> Introduction
 Hello there!
@@ -31,11 +36,11 @@ A ba...</td><td><a href="https://danysdevcorner.hashnode.dev/5-youtube-channels-
 <br/> Introduction
 Hello there and happy eastern to you and your loved ones!
 Today i want to give you a little easter gift and share 5 of my favorite developer Youtube channels that are great in teaching coding and computer science in general.
-Hopefully yo...</td><td><a href="https://danysdevcorner.hashnode.dev/3-tips-when-working-remotely" title="3 Tips when Working Remotely"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616840437796/V3yXhEah6.jpeg" alt="3 Tips when Working Remotely"   /></a>
+Hopefully yo...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/3-tips-when-working-remotely" title="3 Tips when Working Remotely"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616840437796/V3yXhEah6.jpeg" alt="3 Tips when Working Remotely"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/3-tips-when-working-remotely" title="3 Tips when Working Remotely"><strong>3 Tips when Working Remotely</strong></a>
 <br/> Introduction
 Hello there!
-Since one year we are working from home. At least the most of us. For some its a huge chance of how they work and maybe some of you struggling with it. You have to deal with new kinds of distraction. This could be the childr...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/how-to-get-into-development" title="How to get into Development"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616336459438/MEnKzJ6q5.jpeg" alt="How to get into Development"   /></a>
+Since one year we are working from home. At least the most of us. For some its a huge chance of how they work and maybe some of you struggling with it. You have to deal with new kinds of distraction. This could be the childr...</td><td><a href="https://danysdevcorner.hashnode.dev/how-to-get-into-development" title="How to get into Development"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616336459438/MEnKzJ6q5.jpeg" alt="How to get into Development"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/how-to-get-into-development" title="How to get into Development"><strong>How to get into Development</strong></a>
 <br/> Introduction
 Hello there!
@@ -43,10 +48,5 @@ Development is such a beautiful world and with COVID stucked at home and got int
 <a href="https://danysdevcorner.hashnode.dev/5-daily-resources-for-web-developers" title="5 daily resources for Web Developers"><strong>5 daily resources for Web Developers</strong></a>
 <br/> Introduction
 Hello there!
-My last post about useful javascript resources showed me that you kind of like this types of post where i share my knowledge about knowledge. And today i want to continue with that and share more resources but this time not ...</td><td><a href="https://danysdevcorner.hashnode.dev/useful-javascript-resources-to-learn-and-remember" title="Useful Javascript resources to learn and remember"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615112319605/i21Rjtz3D.jpeg" alt="Useful Javascript resources to learn and remember"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/useful-javascript-resources-to-learn-and-remember" title="Useful Javascript resources to learn and remember"><strong>Useful Javascript resources to learn and remember</strong></a>
-<br/> Introduction
-Hello there!
-In the last weeks i wrote my posts around Flutter and mobile development. So i think this week its time again for good old Javascript!
-Over time my bookmarks went over 9000 really quick when it comes to Javascript resources ...</td></tr></table>
+My last post about useful javascript resources showed me that you kind of like this types of post where i share my knowledge about knowledge. And today i want to continue with that and share more resources but this time not ...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
