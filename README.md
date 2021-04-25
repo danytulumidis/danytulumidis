@@ -21,7 +21,13 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/typescript-is-the-better-javascript" title="Typescript is the better Javascript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618652384308/2-gaRPoll.jpeg" alt="Typescript is the better Javascript"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/why-i-freakin-love-coding" title="Why i freakin love coding"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619278523033/ZU0Hx1j6A.jpeg" alt="Why i freakin love coding"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/why-i-freakin-love-coding" title="Why i freakin love coding"><strong>Why i freakin love coding</strong></a>
+<br/> Introduction
+Hello there!
+Its the beginning of my 2 week vacation and once again i sit in front of the computer ONE day after the last working day. But why?
+Because i love coding! I love to code, write about coding and even smell code.
+Today i want t...</td><td><a href="https://danysdevcorner.hashnode.dev/typescript-is-the-better-javascript" title="Typescript is the better Javascript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618652384308/2-gaRPoll.jpeg" alt="Typescript is the better Javascript"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/typescript-is-the-better-javascript" title="Typescript is the better Javascript"><strong>Typescript is the better Javascript</strong></a>
 <br/> Introduction
 Hello there!
@@ -31,12 +37,12 @@ When i st...</td><td><a href="https://danysdevcorner.hashnode.dev/3-technologies
 <br/> Introduction
 Hello there!
 In the world of a programmer there are many technologies we need to stay up to date and learning day for day. A web developer need to practice and learn javascript for a life-time, needs to know HTML and CSS inside out.
-A ba...</td><td><a href="https://danysdevcorner.hashnode.dev/5-youtube-channels-for-developers" title="5 Youtube Channels for Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617525475691/tr8nE0I5H.jpeg" alt="5 Youtube Channels for Developers"   /></a>
+A ba...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/5-youtube-channels-for-developers" title="5 Youtube Channels for Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617525475691/tr8nE0I5H.jpeg" alt="5 Youtube Channels for Developers"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/5-youtube-channels-for-developers" title="5 Youtube Channels for Developers"><strong>5 Youtube Channels for Developers</strong></a>
 <br/> Introduction
 Hello there and happy eastern to you and your loved ones!
 Today i want to give you a little easter gift and share 5 of my favorite developer Youtube channels that are great in teaching coding and computer science in general.
-Hopefully yo...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/3-tips-when-working-remotely" title="3 Tips when Working Remotely"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616840437796/V3yXhEah6.jpeg" alt="3 Tips when Working Remotely"   /></a>
+Hopefully yo...</td><td><a href="https://danysdevcorner.hashnode.dev/3-tips-when-working-remotely" title="3 Tips when Working Remotely"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616840437796/V3yXhEah6.jpeg" alt="3 Tips when Working Remotely"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/3-tips-when-working-remotely" title="3 Tips when Working Remotely"><strong>3 Tips when Working Remotely</strong></a>
 <br/> Introduction
 Hello there!
@@ -44,9 +50,5 @@ Since one year we are working from home. At least the most of us. For some its a
 <a href="https://danysdevcorner.hashnode.dev/how-to-get-into-development" title="How to get into Development"><strong>How to get into Development</strong></a>
 <br/> Introduction
 Hello there!
-Development is such a beautiful world and with COVID stucked at home and got into this world on their own. There are many ways how to get into development and multiple directions in which you can go. For example web developm...</td><td><a href="https://danysdevcorner.hashnode.dev/5-daily-resources-for-web-developers" title="5 daily resources for Web Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615716213255/8s3N6kMDz.jpeg" alt="5 daily resources for Web Developers"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/5-daily-resources-for-web-developers" title="5 daily resources for Web Developers"><strong>5 daily resources for Web Developers</strong></a>
-<br/> Introduction
-Hello there!
-My last post about useful javascript resources showed me that you kind of like this types of post where i share my knowledge about knowledge. And today i want to continue with that and share more resources but this time not ...</td></tr></table>
+Development is such a beautiful world and with COVID stucked at home and got into this world on their own. There are many ways how to get into development and multiple directions in which you can go. For example web developm...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
