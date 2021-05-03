@@ -21,7 +21,11 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/why-i-freakin-love-coding" title="Why i freakin love coding"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619278523033/ZU0Hx1j6A.jpeg" alt="Why i freakin love coding"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/overcome-imposter-syndrome" title="Overcome Imposter Syndrome"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619957873991/tlU9qXvAT.jpeg" alt="Overcome Imposter Syndrome"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/overcome-imposter-syndrome" title="Overcome Imposter Syndrome"><strong>Overcome Imposter Syndrome</strong></a>
+<br/> Introduction
+Hello there!
+Imposter Syndrome. Its well known in the Tech World. I believe like 99 % of developers faced this in their career at some point. For some of us its an omnipresent companion on our way. I want to talk about it and explain wha...</td><td><a href="https://danysdevcorner.hashnode.dev/why-i-freakin-love-coding" title="Why i freakin love coding"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619278523033/ZU0Hx1j6A.jpeg" alt="Why i freakin love coding"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/why-i-freakin-love-coding" title="Why i freakin love coding"><strong>Why i freakin love coding</strong></a>
 <br/> Introduction
 Hello there!
@@ -32,12 +36,12 @@ Today i want t...</td><td><a href="https://danysdevcorner.hashnode.dev/typescrip
 <br/> Introduction
 Hello there!
 Javascript is THE language of the web and one or maybe the most used language in the world of programming. You can do everything with it, from building a simple portfolio website till build a complete SaaS product.
-When i st...</td><td><a href="https://danysdevcorner.hashnode.dev/3-technologies-every-programmer-should-know" title="3 Technologies every Programmer should know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618058271644/IKgEWbKbw.jpeg" alt="3 Technologies every Programmer should know"   /></a>
+When i st...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/3-technologies-every-programmer-should-know" title="3 Technologies every Programmer should know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618058271644/IKgEWbKbw.jpeg" alt="3 Technologies every Programmer should know"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/3-technologies-every-programmer-should-know" title="3 Technologies every Programmer should know"><strong>3 Technologies every Programmer should know</strong></a>
 <br/> Introduction
 Hello there!
 In the world of a programmer there are many technologies we need to stay up to date and learning day for day. A web developer need to practice and learn javascript for a life-time, needs to know HTML and CSS inside out.
-A ba...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/5-youtube-channels-for-developers" title="5 Youtube Channels for Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617525475691/tr8nE0I5H.jpeg" alt="5 Youtube Channels for Developers"   /></a>
+A ba...</td><td><a href="https://danysdevcorner.hashnode.dev/5-youtube-channels-for-developers" title="5 Youtube Channels for Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617525475691/tr8nE0I5H.jpeg" alt="5 Youtube Channels for Developers"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/5-youtube-channels-for-developers" title="5 Youtube Channels for Developers"><strong>5 Youtube Channels for Developers</strong></a>
 <br/> Introduction
 Hello there and happy eastern to you and your loved ones!
@@ -46,9 +50,5 @@ Hopefully yo...</td><td><a href="https://danysdevcorner.hashnode.dev/3-tips-when
 <a href="https://danysdevcorner.hashnode.dev/3-tips-when-working-remotely" title="3 Tips when Working Remotely"><strong>3 Tips when Working Remotely</strong></a>
 <br/> Introduction
 Hello there!
-Since one year we are working from home. At least the most of us. For some its a huge chance of how they work and maybe some of you struggling with it. You have to deal with new kinds of distraction. This could be the childr...</td><td><a href="https://danysdevcorner.hashnode.dev/how-to-get-into-development" title="How to get into Development"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616336459438/MEnKzJ6q5.jpeg" alt="How to get into Development"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/how-to-get-into-development" title="How to get into Development"><strong>How to get into Development</strong></a>
-<br/> Introduction
-Hello there!
-Development is such a beautiful world and with COVID stucked at home and got into this world on their own. There are many ways how to get into development and multiple directions in which you can go. For example web developm...</td></tr></table>
+Since one year we are working from home. At least the most of us. For some its a huge chance of how they work and maybe some of you struggling with it. You have to deal with new kinds of distraction. This could be the childr...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
