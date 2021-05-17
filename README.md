@@ -21,7 +21,11 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/3-tips-to-boost-your-productivity" title="3 Tips to Boost your Productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620555525447/fZIqJzkeJ.jpeg" alt="3 Tips to Boost your Productivity"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/communication-is-key" title="Communication is Key"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621153131736/qIDdWEZgY.jpeg" alt="Communication is Key"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/communication-is-key" title="Communication is Key"><strong>Communication is Key</strong></a>
+<div><strong>16 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Introduction
+Nowadays developers arent just nerdy guys sitting in their basement and talk to nobody except their mothers that bring them food. Developers are the crucial link between a company and the customer. They deliver a valuable outcome for bot...</td><td><a href="https://danysdevcorner.hashnode.dev/3-tips-to-boost-your-productivity" title="3 Tips to Boost your Productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620555525447/fZIqJzkeJ.jpeg" alt="3 Tips to Boost your Productivity"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/3-tips-to-boost-your-productivity" title="3 Tips to Boost your Productivity"><strong>3 Tips to Boost your Productivity</strong></a>
 <div><strong>9 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
@@ -31,14 +35,14 @@ Time is rare. Especially in our current life time is THE most valuable thing. Ir
 <div><strong>2 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
 Hello there!
-Imposter Syndrome. Its well known in the Tech World. I believe like 99 % of developers faced this in their career at some point. For some of us its an omnipresent companion on our way. I want to talk about it and explain wha...</td><td><a href="https://danysdevcorner.hashnode.dev/why-i-freakin-love-coding" title="Why i freakin love coding"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619278523033/ZU0Hx1j6A.jpeg" alt="Why i freakin love coding"   /></a>
+Imposter Syndrome. Its well known in the Tech World. I believe like 99 % of developers faced this in their career at some point. For some of us its an omnipresent companion on our way. I want to talk about it and explain wha...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/why-i-freakin-love-coding" title="Why i freakin love coding"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619278523033/ZU0Hx1j6A.jpeg" alt="Why i freakin love coding"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/why-i-freakin-love-coding" title="Why i freakin love coding"><strong>Why i freakin love coding</strong></a>
 <div><strong>24 Apr 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
 Hello there!
 Its the beginning of my 2 week vacation and once again i sit in front of the computer ONE day after the last working day. But why?
 Because i love coding! I love to code, write about coding and even smell code.
-Today i want t...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/typescript-is-the-better-javascript" title="Typescript is the better Javascript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618652384308/2-gaRPoll.jpeg" alt="Typescript is the better Javascript"   /></a>
+Today i want t...</td><td><a href="https://danysdevcorner.hashnode.dev/typescript-is-the-better-javascript" title="Typescript is the better Javascript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618652384308/2-gaRPoll.jpeg" alt="Typescript is the better Javascript"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/typescript-is-the-better-javascript" title="Typescript is the better Javascript"><strong>Typescript is the better Javascript</strong></a>
 <div><strong>17 Apr 2021</strong> | <strong>19 Apr 2021</strong></div>
 <br/> Introduction
@@ -50,11 +54,5 @@ When i st...</td><td><a href="https://danysdevcorner.hashnode.dev/3-technologies
 <br/> Introduction
 Hello there!
 In the world of a programmer there are many technologies we need to stay up to date and learning day for day. A web developer need to practice and learn javascript for a life-time, needs to know HTML and CSS inside out.
-A ba...</td><td><a href="https://danysdevcorner.hashnode.dev/5-youtube-channels-for-developers" title="5 Youtube Channels for Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617525475691/tr8nE0I5H.jpeg" alt="5 Youtube Channels for Developers"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/5-youtube-channels-for-developers" title="5 Youtube Channels for Developers"><strong>5 Youtube Channels for Developers</strong></a>
-<div><strong>4 Apr 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> Introduction
-Hello there and happy eastern to you and your loved ones!
-Today i want to give you a little easter gift and share 5 of my favorite developer Youtube channels that are great in teaching coding and computer science in general.
-Hopefully yo...</td></tr></table>
+A ba...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
