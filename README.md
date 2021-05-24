@@ -21,7 +21,12 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/communication-is-key" title="Communication is Key"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621153131736/qIDdWEZgY.jpeg" alt="Communication is Key"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/3-books-that-will-improve-you-as-a-developer" title="3 Books that will improve you as a Developer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621760179894/mL0ZybePw.jpeg" alt="3 Books that will improve you as a Developer"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/3-books-that-will-improve-you-as-a-developer" title="3 Books that will improve you as a Developer"><strong>3 Books that will improve you as a Developer</strong></a>
+<div><strong>23 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Introduction
+Hello there!
+For a very long time, i just read fantasy books. And i loved it and will still do in the future. But as i went more and more into self-improvement i thought about reading stuff that will actually bring some value to me. I wa...</td><td><a href="https://danysdevcorner.hashnode.dev/communication-is-key" title="Communication is Key"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621153131736/qIDdWEZgY.jpeg" alt="Communication is Key"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/communication-is-key" title="Communication is Key"><strong>Communication is Key</strong></a>
 <div><strong>16 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
@@ -30,12 +35,12 @@ Nowadays developers arent just nerdy guys sitting in their basement and talk to 
 <div><strong>9 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
 Hello there!
-Time is rare. Especially in our current life time is THE most valuable thing. Ironically its also really easy to waste time today. Social Media, Netflix, Amazon Prime, Disney+ etc. are nice things and i really enjoy using th...</td><td><a href="https://danysdevcorner.hashnode.dev/overcome-imposter-syndrome" title="Overcome Imposter Syndrome"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619957873991/tlU9qXvAT.jpeg" alt="Overcome Imposter Syndrome"   /></a>
+Time is rare. Especially in our current life time is THE most valuable thing. Ironically its also really easy to waste time today. Social Media, Netflix, Amazon Prime, Disney+ etc. are nice things and i really enjoy using th...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/overcome-imposter-syndrome" title="Overcome Imposter Syndrome"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619957873991/tlU9qXvAT.jpeg" alt="Overcome Imposter Syndrome"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/overcome-imposter-syndrome" title="Overcome Imposter Syndrome"><strong>Overcome Imposter Syndrome</strong></a>
 <div><strong>2 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
 Hello there!
-Imposter Syndrome. Its well known in the Tech World. I believe like 99 % of developers faced this in their career at some point. For some of us its an omnipresent companion on our way. I want to talk about it and explain wha...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/why-i-freakin-love-coding" title="Why i freakin love coding"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619278523033/ZU0Hx1j6A.jpeg" alt="Why i freakin love coding"   /></a>
+Imposter Syndrome. Its well known in the Tech World. I believe like 99 % of developers faced this in their career at some point. For some of us its an omnipresent companion on our way. I want to talk about it and explain wha...</td><td><a href="https://danysdevcorner.hashnode.dev/why-i-freakin-love-coding" title="Why i freakin love coding"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619278523033/ZU0Hx1j6A.jpeg" alt="Why i freakin love coding"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/why-i-freakin-love-coding" title="Why i freakin love coding"><strong>Why i freakin love coding</strong></a>
 <div><strong>24 Apr 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
@@ -48,11 +53,5 @@ Today i want t...</td><td><a href="https://danysdevcorner.hashnode.dev/typescrip
 <br/> Introduction
 Hello there!
 Javascript is THE language of the web and one or maybe the most used language in the world of programming. You can do everything with it, from building a simple portfolio website till build a complete SaaS product.
-When i st...</td><td><a href="https://danysdevcorner.hashnode.dev/3-technologies-every-programmer-should-know" title="3 Technologies every Programmer should know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618058271644/IKgEWbKbw.jpeg" alt="3 Technologies every Programmer should know"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/3-technologies-every-programmer-should-know" title="3 Technologies every Programmer should know"><strong>3 Technologies every Programmer should know</strong></a>
-<div><strong>10 Apr 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> Introduction
-Hello there!
-In the world of a programmer there are many technologies we need to stay up to date and learning day for day. A web developer need to practice and learn javascript for a life-time, needs to know HTML and CSS inside out.
-A ba...</td></tr></table>
+When i st...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
