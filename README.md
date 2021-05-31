@@ -21,7 +21,13 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/3-books-that-will-improve-you-as-a-developer" title="3 Books that will improve you as a Developer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621760179894/mL0ZybePw.jpeg" alt="3 Books that will improve you as a Developer"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/efficiency-as-a-developer-big-o-notation" title="Efficiency as a Developer - Big O Notation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622379671304/5ouuxC77LS.jpeg" alt="Efficiency as a Developer - Big O Notation"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/efficiency-as-a-developer-big-o-notation" title="Efficiency as a Developer - Big O Notation"><strong>Efficiency as a Developer - Big O Notation</strong></a>
+<div><strong>30 May 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Introduction
+As developers, we write new algorithms or work on existing ones. And whenever we code something we should ask ourselves multiple questions. One of these questions is:
+How efficient is my code?
+One key element when writing algorithms are ...</td><td><a href="https://danysdevcorner.hashnode.dev/3-books-that-will-improve-you-as-a-developer" title="3 Books that will improve you as a Developer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621760179894/mL0ZybePw.jpeg" alt="3 Books that will improve you as a Developer"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/3-books-that-will-improve-you-as-a-developer" title="3 Books that will improve you as a Developer"><strong>3 Books that will improve you as a Developer</strong></a>
 <div><strong>23 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
@@ -30,12 +36,12 @@ For a very long time, i just read fantasy books. And i loved it and will still d
 <a href="https://danysdevcorner.hashnode.dev/communication-is-key" title="Communication is Key"><strong>Communication is Key</strong></a>
 <div><strong>16 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
-Nowadays developers arent just nerdy guys sitting in their basement and talk to nobody except their mothers that bring them food. Developers are the crucial link between a company and the customer. They deliver a valuable outcome for bot...</td><td><a href="https://danysdevcorner.hashnode.dev/3-tips-to-boost-your-productivity" title="3 Tips to Boost your Productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620555525447/fZIqJzkeJ.jpeg" alt="3 Tips to Boost your Productivity"   /></a>
+Nowadays developers arent just nerdy guys sitting in their basement and talk to nobody except their mothers that bring them food. Developers are the crucial link between a company and the customer. They deliver a valuable outcome for bot...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/3-tips-to-boost-your-productivity" title="3 Tips to Boost your Productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620555525447/fZIqJzkeJ.jpeg" alt="3 Tips to Boost your Productivity"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/3-tips-to-boost-your-productivity" title="3 Tips to Boost your Productivity"><strong>3 Tips to Boost your Productivity</strong></a>
 <div><strong>9 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
 Hello there!
-Time is rare. Especially in our current life time is THE most valuable thing. Ironically its also really easy to waste time today. Social Media, Netflix, Amazon Prime, Disney+ etc. are nice things and i really enjoy using th...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/overcome-imposter-syndrome" title="Overcome Imposter Syndrome"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619957873991/tlU9qXvAT.jpeg" alt="Overcome Imposter Syndrome"   /></a>
+Time is rare. Especially in our current life time is THE most valuable thing. Ironically its also really easy to waste time today. Social Media, Netflix, Amazon Prime, Disney+ etc. are nice things and i really enjoy using th...</td><td><a href="https://danysdevcorner.hashnode.dev/overcome-imposter-syndrome" title="Overcome Imposter Syndrome"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619957873991/tlU9qXvAT.jpeg" alt="Overcome Imposter Syndrome"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/overcome-imposter-syndrome" title="Overcome Imposter Syndrome"><strong>Overcome Imposter Syndrome</strong></a>
 <div><strong>2 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
@@ -47,11 +53,5 @@ Imposter Syndrome. Its well known in the Tech World. I believe like 99 % of deve
 Hello there!
 Its the beginning of my 2 week vacation and once again i sit in front of the computer ONE day after the last working day. But why?
 Because i love coding! I love to code, write about coding and even smell code.
-Today i want t...</td><td><a href="https://danysdevcorner.hashnode.dev/typescript-is-the-better-javascript" title="Typescript is the better Javascript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618652384308/2-gaRPoll.jpeg" alt="Typescript is the better Javascript"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/typescript-is-the-better-javascript" title="Typescript is the better Javascript"><strong>Typescript is the better Javascript</strong></a>
-<div><strong>17 Apr 2021</strong> | <strong>19 Apr 2021</strong></div>
-<br/> Introduction
-Hello there!
-Javascript is THE language of the web and one or maybe the most used language in the world of programming. You can do everything with it, from building a simple portfolio website till build a complete SaaS product.
-When i st...</td></tr></table>
+Today i want t...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
