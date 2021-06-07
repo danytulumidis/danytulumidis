@@ -21,7 +21,13 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/efficiency-as-a-developer-big-o-notation" title="Efficiency as a Developer - Big O Notation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622379671304/5ouuxC77LS.jpeg" alt="Efficiency as a Developer - Big O Notation"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/3-youtube-channels-for-flutter-developers" title="3 YouTube Channels for Flutter Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622970626890/qnsNfW-8az.jpeg" alt="3 YouTube Channels for Flutter Developers"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/3-youtube-channels-for-flutter-developers" title="3 YouTube Channels for Flutter Developers"><strong>3 YouTube Channels for Flutter Developers</strong></a>
+<div><strong>6 June 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Introduction
+Hello there!
+This week the article will be short and on the point. I want to share my top 3 YouTubers where you can learn Flutter and stay up-to-date with the awesome UI Toolkit from Google to build beautiful apps.
+The beauty of Flutter ...</td><td><a href="https://danysdevcorner.hashnode.dev/efficiency-as-a-developer-big-o-notation" title="Efficiency as a Developer - Big O Notation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622379671304/5ouuxC77LS.jpeg" alt="Efficiency as a Developer - Big O Notation"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/efficiency-as-a-developer-big-o-notation" title="Efficiency as a Developer - Big O Notation"><strong>Efficiency as a Developer - Big O Notation</strong></a>
 <div><strong>30 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
@@ -32,11 +38,11 @@ One key element when writing algorithms are ...</td><td><a href="https://danysde
 <div><strong>23 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
 Hello there!
-For a very long time, i just read fantasy books. And i loved it and will still do in the future. But as i went more and more into self-improvement i thought about reading stuff that will actually bring some value to me. I wa...</td><td><a href="https://danysdevcorner.hashnode.dev/communication-is-key" title="Communication is Key"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621153131736/qIDdWEZgY.jpeg" alt="Communication is Key"   /></a>
+For a very long time, i just read fantasy books. And i loved it and will still do in the future. But as i went more and more into self-improvement i thought about reading stuff that will actually bring some value to me. I wa...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/communication-is-key" title="Communication is Key"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621153131736/qIDdWEZgY.jpeg" alt="Communication is Key"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/communication-is-key" title="Communication is Key"><strong>Communication is Key</strong></a>
 <div><strong>16 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
-Nowadays developers arent just nerdy guys sitting in their basement and talk to nobody except their mothers that bring them food. Developers are the crucial link between a company and the customer. They deliver a valuable outcome for bot...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/3-tips-to-boost-your-productivity" title="3 Tips to Boost your Productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620555525447/fZIqJzkeJ.jpeg" alt="3 Tips to Boost your Productivity"   /></a>
+Nowadays developers arent just nerdy guys sitting in their basement and talk to nobody except their mothers that bring them food. Developers are the crucial link between a company and the customer. They deliver a valuable outcome for bot...</td><td><a href="https://danysdevcorner.hashnode.dev/3-tips-to-boost-your-productivity" title="3 Tips to Boost your Productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620555525447/fZIqJzkeJ.jpeg" alt="3 Tips to Boost your Productivity"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/3-tips-to-boost-your-productivity" title="3 Tips to Boost your Productivity"><strong>3 Tips to Boost your Productivity</strong></a>
 <div><strong>9 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
@@ -46,12 +52,5 @@ Time is rare. Especially in our current life time is THE most valuable thing. Ir
 <div><strong>2 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
 Hello there!
-Imposter Syndrome. Its well known in the Tech World. I believe like 99 % of developers faced this in their career at some point. For some of us its an omnipresent companion on our way. I want to talk about it and explain wha...</td><td><a href="https://danysdevcorner.hashnode.dev/why-i-freakin-love-coding" title="Why i freakin love coding"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619278523033/ZU0Hx1j6A.jpeg" alt="Why i freakin love coding"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/why-i-freakin-love-coding" title="Why i freakin love coding"><strong>Why i freakin love coding</strong></a>
-<div><strong>24 Apr 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> Introduction
-Hello there!
-Its the beginning of my 2 week vacation and once again i sit in front of the computer ONE day after the last working day. But why?
-Because i love coding! I love to code, write about coding and even smell code.
-Today i want t...</td></tr></table>
+Imposter Syndrome. Its well known in the Tech World. I believe like 99 % of developers faced this in their career at some point. For some of us its an omnipresent companion on our way. I want to talk about it and explain wha...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
