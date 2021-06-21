@@ -21,9 +21,15 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/how-to-approach-learning-a-new-programming-language" title="How to approach learning a new programming language"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1623501656563/CyxWdRC_W.jpeg" alt="How to approach learning a new programming language"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/flutter-101-a-simple-snackbar-in-flutter" title="Flutter 101: A simple Snackbar in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1624180439570/LgpL2og29.jpeg" alt="Flutter 101: A simple Snackbar in Flutter"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/flutter-101-a-simple-snackbar-in-flutter" title="Flutter 101: A simple Snackbar in Flutter"><strong>Flutter 101: A simple Snackbar in Flutter</strong></a>
+<div><strong>20 June 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Introduction
+Hello there!
+Welcome to my very first Flutter 101 post where I introduce you to Flutter basics!
+Inside an App, the App should give the user feedback when something happens. For example, when you click a Button to save something inside an...</td><td><a href="https://danysdevcorner.hashnode.dev/how-to-approach-learning-a-new-programming-language" title="How to approach learning a new programming language"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1623501656563/CyxWdRC_W.jpeg" alt="How to approach learning a new programming language"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/how-to-approach-learning-a-new-programming-language" title="How to approach learning a new programming language"><strong>How to approach learning a new programming language</strong></a>
-<div><strong>12 June 2021</strong> | <strong>1 Jan 1970</strong></div>
+<div><strong>12 June 2021</strong> | <strong>20 June 2021</strong></div>
 <br/> Introduction
 Hello there!
 Every programmer faced this and/or will face it somewhere in their career. As a developer, you will rarely just use one programming language. Maybe you want to learn a new one just because you are curious and it seems fun. S...</td><td><a href="https://danysdevcorner.hashnode.dev/3-youtube-channels-for-flutter-developers" title="3 YouTube Channels for Flutter Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622970626890/qnsNfW-8az.jpeg" alt="3 YouTube Channels for Flutter Developers"   /></a>
@@ -32,13 +38,13 @@ Every programmer faced this and/or will face it somewhere in their career. As a 
 <br/> Introduction
 Hello there!
 This week the article will be short and on the point. I want to share my top 3 YouTubers where you can learn Flutter and stay up-to-date with the awesome UI Toolkit from Google to build beautiful apps.
-The beauty of Flutter ...</td><td><a href="https://danysdevcorner.hashnode.dev/efficiency-as-a-developer-big-o-notation" title="Efficiency as a Developer - Big O Notation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622379671304/5ouuxC77LS.jpeg" alt="Efficiency as a Developer - Big O Notation"   /></a>
+The beauty of Flutter ...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/efficiency-as-a-developer-big-o-notation" title="Efficiency as a Developer - Big O Notation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622379671304/5ouuxC77LS.jpeg" alt="Efficiency as a Developer - Big O Notation"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/efficiency-as-a-developer-big-o-notation" title="Efficiency as a Developer - Big O Notation"><strong>Efficiency as a Developer - Big O Notation</strong></a>
 <div><strong>30 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
 As developers, we write new algorithms or work on existing ones. And whenever we code something we should ask ourselves multiple questions. One of these questions is:
 How efficient is my code?
-One key element when writing algorithms are ...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/3-books-that-will-improve-you-as-a-developer" title="3 Books that will improve you as a Developer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621760179894/mL0ZybePw.jpeg" alt="3 Books that will improve you as a Developer"   /></a>
+One key element when writing algorithms are ...</td><td><a href="https://danysdevcorner.hashnode.dev/3-books-that-will-improve-you-as-a-developer" title="3 Books that will improve you as a Developer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621760179894/mL0ZybePw.jpeg" alt="3 Books that will improve you as a Developer"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/3-books-that-will-improve-you-as-a-developer" title="3 Books that will improve you as a Developer"><strong>3 Books that will improve you as a Developer</strong></a>
 <div><strong>23 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
@@ -47,10 +53,5 @@ For a very long time, i just read fantasy books. And i loved it and will still d
 <a href="https://danysdevcorner.hashnode.dev/communication-is-key" title="Communication is Key"><strong>Communication is Key</strong></a>
 <div><strong>16 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
-Nowadays developers arent just nerdy guys sitting in their basement and talk to nobody except their mothers that bring them food. Developers are the crucial link between a company and the customer. They deliver a valuable outcome for bot...</td><td><a href="https://danysdevcorner.hashnode.dev/3-tips-to-boost-your-productivity" title="3 Tips to Boost your Productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620555525447/fZIqJzkeJ.jpeg" alt="3 Tips to Boost your Productivity"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/3-tips-to-boost-your-productivity" title="3 Tips to Boost your Productivity"><strong>3 Tips to Boost your Productivity</strong></a>
-<div><strong>9 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> Introduction
-Hello there!
-Time is rare. Especially in our current life time is THE most valuable thing. Ironically its also really easy to waste time today. Social Media, Netflix, Amazon Prime, Disney+ etc. are nice things and i really enjoy using th...</td></tr></table>
+Nowadays developers arent just nerdy guys sitting in their basement and talk to nobody except their mothers that bring them food. Developers are the crucial link between a company and the customer. They deliver a valuable outcome for bot...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
