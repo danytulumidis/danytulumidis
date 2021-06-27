@@ -21,7 +21,12 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/flutter-101-a-simple-snackbar-in-flutter" title="Flutter 101: A simple Snackbar in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1624180439570/LgpL2og29.jpeg" alt="Flutter 101: A simple Snackbar in Flutter"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/flutter-learning-roadmap-v1" title="Flutter Learning Roadmap V1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1624732550535/0MWs2nelI.jpeg" alt="Flutter Learning Roadmap V1"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/flutter-learning-roadmap-v1" title="Flutter Learning Roadmap V1"><strong>Flutter Learning Roadmap V1</strong></a>
+<div><strong>26 June 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Introduction
+Hello there!
+Currently, I'm really into Flutter and I want to learn it inside out. I don't want to learn Flutter I want to be Flutter! So I thought this time a rough overview of all the topics would be nice so I have a rough structure to...</td><td><a href="https://danysdevcorner.hashnode.dev/flutter-101-a-simple-snackbar-in-flutter" title="Flutter 101: A simple Snackbar in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1624180439570/LgpL2og29.jpeg" alt="Flutter 101: A simple Snackbar in Flutter"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/flutter-101-a-simple-snackbar-in-flutter" title="Flutter 101: A simple Snackbar in Flutter"><strong>Flutter 101: A simple Snackbar in Flutter</strong></a>
 <div><strong>20 June 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
@@ -32,13 +37,13 @@ Inside an App, the App should give the user feedback when something happens. For
 <div><strong>12 June 2021</strong> | <strong>20 June 2021</strong></div>
 <br/> Introduction
 Hello there!
-Every programmer faced this and/or will face it somewhere in their career. As a developer, you will rarely just use one programming language. Maybe you want to learn a new one just because you are curious and it seems fun. S...</td><td><a href="https://danysdevcorner.hashnode.dev/3-youtube-channels-for-flutter-developers" title="3 YouTube Channels for Flutter Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622970626890/qnsNfW-8az.jpeg" alt="3 YouTube Channels for Flutter Developers"   /></a>
+Every programmer faced this and/or will face it somewhere in their career. As a developer, you will rarely just use one programming language. Maybe you want to learn a new one just because you are curious and it seems fun. S...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/3-youtube-channels-for-flutter-developers" title="3 YouTube Channels for Flutter Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622970626890/qnsNfW-8az.jpeg" alt="3 YouTube Channels for Flutter Developers"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/3-youtube-channels-for-flutter-developers" title="3 YouTube Channels for Flutter Developers"><strong>3 YouTube Channels for Flutter Developers</strong></a>
 <div><strong>6 June 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
 Hello there!
 This week the article will be short and on the point. I want to share my top 3 YouTubers where you can learn Flutter and stay up-to-date with the awesome UI Toolkit from Google to build beautiful apps.
-The beauty of Flutter ...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/efficiency-as-a-developer-big-o-notation" title="Efficiency as a Developer - Big O Notation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622379671304/5ouuxC77LS.jpeg" alt="Efficiency as a Developer - Big O Notation"   /></a>
+The beauty of Flutter ...</td><td><a href="https://danysdevcorner.hashnode.dev/efficiency-as-a-developer-big-o-notation" title="Efficiency as a Developer - Big O Notation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622379671304/5ouuxC77LS.jpeg" alt="Efficiency as a Developer - Big O Notation"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/efficiency-as-a-developer-big-o-notation" title="Efficiency as a Developer - Big O Notation"><strong>Efficiency as a Developer - Big O Notation</strong></a>
 <div><strong>30 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
@@ -49,9 +54,5 @@ One key element when writing algorithms are ...</td><td><a href="https://danysde
 <div><strong>23 May 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
 Hello there!
-For a very long time, i just read fantasy books. And i loved it and will still do in the future. But as i went more and more into self-improvement i thought about reading stuff that will actually bring some value to me. I wa...</td><td><a href="https://danysdevcorner.hashnode.dev/communication-is-key" title="Communication is Key"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621153131736/qIDdWEZgY.jpeg" alt="Communication is Key"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/communication-is-key" title="Communication is Key"><strong>Communication is Key</strong></a>
-<div><strong>16 May 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> Introduction
-Nowadays developers arent just nerdy guys sitting in their basement and talk to nobody except their mothers that bring them food. Developers are the crucial link between a company and the customer. They deliver a valuable outcome for bot...</td></tr></table>
+For a very long time, i just read fantasy books. And i loved it and will still do in the future. But as i went more and more into self-improvement i thought about reading stuff that will actually bring some value to me. I wa...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
