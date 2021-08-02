@@ -21,7 +21,12 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/understand-constraints-in-flutter" title="Understand Constraints in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1626010916582/n2q9siLfS.jpeg" alt="Understand Constraints in Flutter"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/stress-free-productivity" title="Stress-Free Productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627808973595/I5pZCXJRd.jpeg" alt="Stress-Free Productivity"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/stress-free-productivity" title="Stress-Free Productivity"><strong>Stress-Free Productivity</strong></a>
+<div><strong>1 Aug 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Introduction
+Hello there!
+At the moment I'm reading a book about stress-free productivity and I want to share one or two tips that are mentioned in this book. These tips are really simple but I was surprised how effective they are if you follow them....</td><td><a href="https://danysdevcorner.hashnode.dev/understand-constraints-in-flutter" title="Understand Constraints in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1626010916582/n2q9siLfS.jpeg" alt="Understand Constraints in Flutter"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/understand-constraints-in-flutter" title="Understand Constraints in Flutter"><strong>Understand Constraints in Flutter</strong></a>
 <div><strong>11 July 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
@@ -31,12 +36,12 @@ Another week, another Flutter blog post. This week I want to introduce you to co
 <div><strong>4 July 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
 Hello there!
-On my way to master flutter widgets are key. In Flutter everything is a widget. And so it's crucial to understand how they work and how Flutter renders Widgets. It's a bit of theory but it will help you to better understand ...</td><td><a href="https://danysdevcorner.hashnode.dev/flutter-learning-roadmap-v1" title="Flutter Learning Roadmap V1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1624732550535/0MWs2nelI.jpeg" alt="Flutter Learning Roadmap V1"   /></a>
+On my way to master flutter widgets are key. In Flutter everything is a widget. And so it's crucial to understand how they work and how Flutter renders Widgets. It's a bit of theory but it will help you to better understand ...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/flutter-learning-roadmap-v1" title="Flutter Learning Roadmap V1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1624732550535/0MWs2nelI.jpeg" alt="Flutter Learning Roadmap V1"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/flutter-learning-roadmap-v1" title="Flutter Learning Roadmap V1"><strong>Flutter Learning Roadmap V1</strong></a>
 <div><strong>26 June 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
 Hello there!
-Currently, I'm really into Flutter and I want to learn it inside out. I don't want to learn Flutter I want to be Flutter! So I thought this time a rough overview of all the topics would be nice so I have a rough structure to...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/flutter-101-a-simple-snackbar-in-flutter" title="Flutter 101: A simple Snackbar in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1624180439570/LgpL2og29.jpeg" alt="Flutter 101: A simple Snackbar in Flutter"   /></a>
+Currently, I'm really into Flutter and I want to learn it inside out. I don't want to learn Flutter I want to be Flutter! So I thought this time a rough overview of all the topics would be nice so I have a rough structure to...</td><td><a href="https://danysdevcorner.hashnode.dev/flutter-101-a-simple-snackbar-in-flutter" title="Flutter 101: A simple Snackbar in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1624180439570/LgpL2og29.jpeg" alt="Flutter 101: A simple Snackbar in Flutter"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/flutter-101-a-simple-snackbar-in-flutter" title="Flutter 101: A simple Snackbar in Flutter"><strong>Flutter 101: A simple Snackbar in Flutter</strong></a>
 <div><strong>20 June 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
@@ -47,11 +52,5 @@ Inside an App, the App should give the user feedback when something happens. For
 <div><strong>12 June 2021</strong> | <strong>20 June 2021</strong></div>
 <br/> Introduction
 Hello there!
-Every programmer faced this and/or will face it somewhere in their career. As a developer, you will rarely just use one programming language. Maybe you want to learn a new one just because you are curious and it seems fun. S...</td><td><a href="https://danysdevcorner.hashnode.dev/3-youtube-channels-for-flutter-developers" title="3 YouTube Channels for Flutter Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622970626890/qnsNfW-8az.jpeg" alt="3 YouTube Channels for Flutter Developers"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/3-youtube-channels-for-flutter-developers" title="3 YouTube Channels for Flutter Developers"><strong>3 YouTube Channels for Flutter Developers</strong></a>
-<div><strong>6 June 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> Introduction
-Hello there!
-This week the article will be short and on the point. I want to share my top 3 YouTubers where you can learn Flutter and stay up-to-date with the awesome UI Toolkit from Google to build beautiful apps.
-The beauty of Flutter ...</td></tr></table>
+Every programmer faced this and/or will face it somewhere in their career. As a developer, you will rarely just use one programming language. Maybe you want to learn a new one just because you are curious and it seems fun. S...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
