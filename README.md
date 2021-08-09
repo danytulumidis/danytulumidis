@@ -21,7 +21,14 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://danysdevcorner.hashnode.dev/stress-free-productivity" title="Stress-Free Productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627808973595/I5pZCXJRd.jpeg" alt="Stress-Free Productivity"   /></a>
+<table><tr><td><a href="https://danysdevcorner.hashnode.dev/5-useful-css-resources" title="5 useful CSS resources"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1628413058159/OgJiVtXLWc.jpeg" alt="5 useful CSS resources"   /></a>
+<a href="https://danysdevcorner.hashnode.dev/5-useful-css-resources" title="5 useful CSS resources"><strong>5 useful CSS resources</strong></a>
+<div><strong>8 Aug 2021</strong> | <strong>1 Jan 1970</strong></div>
+<br/> Introduction
+Hello there!
+CSS is like magic and there are tons of resources out there. I want to share 5 of them that I find very useful when working with CSS and I hope you will also find value in them.
+1:  CSS Tricks
+One of the best and well-known ...</td><td><a href="https://danysdevcorner.hashnode.dev/stress-free-productivity" title="Stress-Free Productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627808973595/I5pZCXJRd.jpeg" alt="Stress-Free Productivity"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/stress-free-productivity" title="Stress-Free Productivity"><strong>Stress-Free Productivity</strong></a>
 <div><strong>1 Aug 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
@@ -31,12 +38,12 @@ At the moment I'm reading a book about stress-free productivity and I want to sh
 <div><strong>11 July 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
 Hello there!
-Another week, another Flutter blog post. This week I want to introduce you to constraints in Flutter. When building a UI in Flutter constraints are very important and I would bet you already met an error based on constraints...</td><td><a href="https://danysdevcorner.hashnode.dev/how-flutter-renders-widgets" title="How Flutter renders Widgets"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625404735390/tLe71aUPq.jpeg" alt="How Flutter renders Widgets"   /></a>
+Another week, another Flutter blog post. This week I want to introduce you to constraints in Flutter. When building a UI in Flutter constraints are very important and I would bet you already met an error based on constraints...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/how-flutter-renders-widgets" title="How Flutter renders Widgets"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625404735390/tLe71aUPq.jpeg" alt="How Flutter renders Widgets"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/how-flutter-renders-widgets" title="How Flutter renders Widgets"><strong>How Flutter renders Widgets</strong></a>
 <div><strong>4 July 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
 Hello there!
-On my way to master flutter widgets are key. In Flutter everything is a widget. And so it's crucial to understand how they work and how Flutter renders Widgets. It's a bit of theory but it will help you to better understand ...</td></tr><tr><td><a href="https://danysdevcorner.hashnode.dev/flutter-learning-roadmap-v1" title="Flutter Learning Roadmap V1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1624732550535/0MWs2nelI.jpeg" alt="Flutter Learning Roadmap V1"   /></a>
+On my way to master flutter widgets are key. In Flutter everything is a widget. And so it's crucial to understand how they work and how Flutter renders Widgets. It's a bit of theory but it will help you to better understand ...</td><td><a href="https://danysdevcorner.hashnode.dev/flutter-learning-roadmap-v1" title="Flutter Learning Roadmap V1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1624732550535/0MWs2nelI.jpeg" alt="Flutter Learning Roadmap V1"   /></a>
 <a href="https://danysdevcorner.hashnode.dev/flutter-learning-roadmap-v1" title="Flutter Learning Roadmap V1"><strong>Flutter Learning Roadmap V1</strong></a>
 <div><strong>26 June 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Introduction
@@ -47,10 +54,5 @@ Currently, I'm really into Flutter and I want to learn it inside out. I don't wa
 <br/> Introduction
 Hello there!
 Welcome to my very first Flutter 101 post where I introduce you to Flutter basics!
-Inside an App, the App should give the user feedback when something happens. For example, when you click a Button to save something inside an...</td><td><a href="https://danysdevcorner.hashnode.dev/how-to-approach-learning-a-new-programming-language" title="How to approach learning a new programming language"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1623501656563/CyxWdRC_W.jpeg" alt="How to approach learning a new programming language"   /></a>
-<a href="https://danysdevcorner.hashnode.dev/how-to-approach-learning-a-new-programming-language" title="How to approach learning a new programming language"><strong>How to approach learning a new programming language</strong></a>
-<div><strong>12 June 2021</strong> | <strong>20 June 2021</strong></div>
-<br/> Introduction
-Hello there!
-Every programmer faced this and/or will face it somewhere in their career. As a developer, you will rarely just use one programming language. Maybe you want to learn a new one just because you are curious and it seems fun. S...</td></tr></table>
+Inside an App, the App should give the user feedback when something happens. For example, when you click a Button to save something inside an...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
