@@ -16,7 +16,7 @@ When i need a break from coding i love to read blog posts in the tech field to s
 
 
 ## &#x1f4c8; GitHub Stats
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=dextavision&show_icons=true&theme=radical)
+![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=danytulumidis&show_icons=true&theme=radical)
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
