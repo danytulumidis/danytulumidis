@@ -8,10 +8,10 @@
 - ⚡ Fun fact: 42 == "42 = true; Its funny because its true 😄
 
 ### 📫 Where to find me
-- [Twitter](https://twitter.com/danytulumidis) 🐤
+- [Twitter](https://twitter.com/danytulumidis) (currently not active) 🐤
 - [LinkedIn](https://linkedin.com/in/danytulumidis) 👨💼
 - [Website](https://danytulumidis.com/) (currently offline) 😏🔗
-- [Blog](https://danysdevcorner.hashnode.dev/) and (https://dev.to/danytulumidis) 🤓💻
+- [Blog Hashnode](https://danysdevcorner.hashnode.dev/) and [Blog Dev.to](https://dev.to/danytulumidis) 🤓💻
 
 
 ## &#x1f4c8; GitHub Stats
