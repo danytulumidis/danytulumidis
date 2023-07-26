@@ -1,18 +1,17 @@
 [![Header](https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80 "Header")](https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 ### Hi there! Im Dany and i love coding 👋
-<p align="center">Im a Developer burning for Web3! In my day job im working mostly with Angular and Typescript and on my free time im into Solidity and writing Smart Contracts. In the past i worked as an Cloud Consultant and gathered a lot of knowledge within AWS. I love to learn new things every single day and try to improve myself from day to day. There is no better feeling but to crack the problem you faced for hours or even days. I love it!
-When i need a break from coding i love to read blog posts in the tech field to stay up to date. Im also a gamer and love to play videogames.</p>
+<p align="center">Im a Developer that loves learning new stuff each day! I mostly work with Angular and Typescript and im highly interested in AI. My main goal is to improve myself each day and learn new things to improve myself as a person and as a developer.</p>
 
 - 🔭 I’m currently working on improving myself and try to be better than yesterday
-- 🌱 I love Web3 and all the opportunities that are in front of us! Make the Web ours again!
+- 🌱 Love building stuff, highly interested in Angular, Typescript, AI and more!
 - 💬 Ask me about all stuff related to development
 - ⚡ Fun fact: 42 == "42 = true; Its funny because its true 😄
 
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/danytulumidis) 🐤
 - [LinkedIn](https://linkedin.com/in/danytulumidis) 👨💼
-- [Website](https://danytulumidis.com/) 😏🔗
-- [Blog](https://danysdevcorner.hashnode.dev/) 🤓💻
+- [Website](https://danytulumidis.com/) (currently offline) 😏🔗
+- [Blog](https://danysdevcorner.hashnode.dev/) and (https://dev.to/danytulumidis) 🤓💻
 
 
 ## &#x1f4c8; GitHub Stats
