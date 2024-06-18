@@ -1,14 +1,13 @@
 [![Header](https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80 "Header")](https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
-### Hi there! Im Dany and i love coding 👋
-<p align="center">Im a Developer that loves learning new stuff each day! I mostly work with Angular and Typescript and im highly interested in AI. My main goal is to improve myself each day and learn new things to improve myself as a person and as a developer.</p>
+### Hi there! Im Dany and i love build stuff and solve problems 👋
+<p align="center">Im a Developer that loves learning new stuff each day! I mostly work with Angular and Typescript but always use the right tool for the job. Always learning, always challenging myself.</p>
 
 - 🔭 I’m currently working on improving myself and try to be better than yesterday
-- 🌱 Love building stuff, highly interested in Angular, Typescript, AI and more!
+- 🌱 Love building stuff and solving problems
 - 💬 Ask me about all stuff related to development
 - ⚡ Fun fact: 42 == "42 = true; Its funny because its true 😄
 
 ### 📫 Where to find me
-- [Twitter](https://twitter.com/danytulumidis) (currently not active) 🐤
 - [LinkedIn](https://linkedin.com/in/danytulumidis) 👨💼
 - [Website](https://danytulumidis.com/) (currently offline) 😏🔗
 - [Blog Hashnode](https://danysdevcorner.hashnode.dev/) and [Blog Dev.to](https://dev.to/danytulumidis) 🤓💻
