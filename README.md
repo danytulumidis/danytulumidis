@@ -1,6 +1,6 @@
 [![Header](https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80 "Header")](https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 ### Hi there! Im Dany and i love build stuff and solve problems 👋
-<p align="center">Im a Developer that loves learning new stuff each day! I mostly work with Angular and Typescript but always use the right tool for the job. Always learning, always challenging myself.</p>
+<p align="center">Im a Developer that loves learning new stuff each day! Currently learning all kind of low level stuff focusing on C. Also interested in Assembly, Rust and Zig for the future. Always learning, always challenging myself.</p>
 
 - 🔭 I’m currently working on improving myself and try to be better than yesterday
 - 🌱 Love building stuff and solving problems
